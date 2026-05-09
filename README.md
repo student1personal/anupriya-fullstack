@@ -1,5 +1,5 @@
 # anupriya-fullstack
-# Hi, I'm Anupriya gautam 👋
+# Hi, I'm Anupriya Gautam 👋
 
 💻 Java Full Stack Developer  
 🚀 Skilled in: Java, Spring Boot, MySQL, HTML, CSS, JavaScript  
